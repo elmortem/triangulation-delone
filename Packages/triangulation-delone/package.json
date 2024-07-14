@@ -1,0 +1,14 @@
+{
+  "displayName": "Triangulation Delone",
+  "name": "com.elmortem.delone",
+  "version": "0.0.1",
+  "unity": "2019.1",
+  "description": "Triangulation Delone algorithm",
+  "keywords": [
+    "algorithm",
+    "delone",
+    "triangulation",
+    "triangulation delone"
+  ],
+  "category": "Utility"
+}
